@@ -5,4 +5,7 @@ play with branches
 `git branch test-branch` #name of branch
 
 ### Switch to test-branch
-`git checkout test-branchgit 
+`git checkout test-branch`
+
+Hello world 
+How's it going? 
